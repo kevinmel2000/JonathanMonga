@@ -1,0 +1,1 @@
+enum Operation { addition, substraction, mutiplication, division, clear }
